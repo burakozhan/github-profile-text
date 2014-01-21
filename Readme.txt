@@ -10,7 +10,7 @@ Trying to write "Hi!"
 10 Jan 2014 Done
 15 Jan 2014 Done
 20 Jan 2014 Done
-21 Jan 2014
+21 Jan 2014 Done
 22 Jan 2014
 23 Jan 2014
 24 Jan 2014
