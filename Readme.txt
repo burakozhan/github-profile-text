@@ -13,7 +13,7 @@ Trying to write "Hi!"
 21 Jan 2014 Done
 22 Jan 2014 Done
 23 Jan 2014 Done
-24 Jan 2014
+24 Jan 2014 Done
 
 "i"
 4 Feb 2014
