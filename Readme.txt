@@ -18,7 +18,7 @@ Trying to write "Hi!"
 "i"
 4 Feb 2014  Done
 6 Feb 2014	Done
-7 Feb 2014
+7 Feb 2014	Done
 
 "!"
 18 Feb 2014
